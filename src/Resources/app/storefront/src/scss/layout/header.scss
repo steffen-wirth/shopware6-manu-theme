@@ -138,6 +138,7 @@ $header-padding-bottom: rem($dmf-header-padding-bottom);
         padding-top: 0;
         padding-bottom: 0;
         margin: 0;
+        flex-grow: 1;
     }
 
     .header-row {
